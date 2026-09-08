@@ -102,4 +102,4 @@ Three tabs:
    intervals, plus live residual, Q-Q, and VIF diagnostics for the fitted model.
 
 
-**Live demo:** _(add link here after deployment)_
+**Live demo:** https://insurance-dashboard-202618045-farhan.streamlit.app/
